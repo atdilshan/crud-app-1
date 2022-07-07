@@ -1,0 +1,22 @@
+{
+  "name": "jsapp1",
+  "version": "1.0.0",
+  "description": "JavaScript App1 Using ExpressJS",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "expressjs"
+  ],
+  "author": "AT Dilshan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mongodb": "^2.2.16"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
